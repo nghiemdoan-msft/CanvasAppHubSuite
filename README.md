@@ -15,6 +15,9 @@ This template solution will cover some common development practice.
 ## High level structure
 ![App Structure](/images/CanvasAppHubSuiteSummary.png)
 
+## Demo
+![Contoso Hub Demo](/images/ContosoMainHubDemo.gif)
+
 ## Component Details
 Dataverse Key Table:
 
