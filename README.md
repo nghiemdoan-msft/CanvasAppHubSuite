@@ -16,7 +16,7 @@ This template solution will cover some common development practice.
 ![App Structure](/images/CanvasAppHubSuiteSummary.png)
 
 ## Demo
-<img src="images/ContosoMainHubDemo.gif?raw=true" style="max-width: 60%; display: inline-block;">
+<img src="images/ContosoMainHubDemo.gif?raw=true" width=60% height=60%>
 
 ## Component Details
 Dataverse Key Table:
