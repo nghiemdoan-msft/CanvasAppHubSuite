@@ -1,0 +1,8 @@
+nd_appid,nd_appdisplayrank,nd_appiconurl,nd_appname,nd_displayname,nd_hideappfrommenu,importsequencenumber,nd_launchurl,nd_powerappid,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,versionnumber,owningbusinessunit
+,1,,Contoso Main App Hub,Home,TRUE,,,18872648-7b87-44e2-845b-8120a006587d,Active,Active,,,,
+,2,,Contoso Product App,Product List,FALSE,,,1d03a318-692a-4470-bdb7-1be8102b22a4,Active,Active,,,,
+,3,,Contoso Feeds App,News Feed,FALSE,,,22d98755-686c-407e-a956-239412895f7f,Active,Active,,,,
+,4,,Contoso Document Management App,Documents,FALSE,,,d21b7ef4-581b-4319-9ad8-1572577f5109,Active,Active,,,,
+,5,,Contoso Leave Request App,Submit time off,FALSE,,,2948a187-c819-4533-97ac-e32da6cb0b55,Active,Active,,,,
+,6,,Power Apps Blog,Power Apps Blog,FALSE,,https://powerapps.microsoft.com/en-us/blog/,,Active,Active,,,,
+,7,,Power Automate Blog,Power Automate Blog,FALSE,,https://powerautomate.microsoft.com/en-us/blog/,,Active,Active,,,,
