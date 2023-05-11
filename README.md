@@ -2,7 +2,7 @@
 ## Summary
 This project leverages the Power Platform technology to develop a customizable Multiple Canvas Apps Demo solution. The goal of the solution is to provide a comprehensive template that Partners and Customers can use as a "getting started" kit for building and publishing new solutions.
 
-The solution will include a main hub app and multiple child canvas apps that can be easily customized and adapted to meet the needs of different industries and use cases. The solution will be designed to be intuitive, user-friendly, and easy to navigate, with a focus on streamlining the development and deployment process for Partners and Customers. 
+This project recognizes that Canvas Apps are not intended to support a single large app for multiple use cases. Rather, the solution will adopt an approach that extends the development process while ensuring a friendly and reasonable experience for end-user. The solution includes a main hub app and multiple child canvas apps that can be easily customized and adapted to meet the needs of different industries and use cases. The solution is designed to be intuitive, user-friendly, and easy to navigate, with a focus on streamlining the development and deployment process for Partners and Customers.
 
 By providing a standardized framework for building and publishing large Canvas App solutions, this project aims to facilitate greater collaboration, innovation, and growth within the Power Platform community.
 
@@ -25,7 +25,7 @@ Dataverse Key Table:
 
 Note: You can use Model Driven App **Admin App** to control the value of each row in **App** table.
 
-Component Libaries:
+Component Libraries:
 
 * **Contoso App Library** is a library of reusable components that can be shared among multiple apps, such as headers, footers, app menus, footer menus, search boxes, and loading screens.
 
@@ -34,7 +34,7 @@ Canvas App:
 * **Contoso Main App Hub** acts as a "home base" for users, allowing them to launch different apps/url(s), access data, and perform a range of tasks, all within the same interface.
 * **Contoso Product App** is a sample child app that showcases Contoso's range of products in a mixed reality (MR) environment. The app provides users with a fully immersive and interactive experience, allowing them to view and interact with Contoso's products in a virtual space.
 * **Contoso Leave Request App** is a sample child app that streamlines the leave request process for employees. Employees can submit leave requests, view their leave balance, and track the status of their requests.
-* **Contoso Feeds App**is a sample child app that displays the latest and most important news from multiple RSS sources and presents them in an easy-to-read format.
+* **Contoso Feeds App** is a sample child app that displays the latest and most important news from multiple RSS sources and presents them in an easy-to-read format.
 * **Contoso Document Management App**: This is a sample child app that shows documents from a SharePoint site. The app makes it easy for users to view and manage documents, streamlining the document management process. 
 
 
